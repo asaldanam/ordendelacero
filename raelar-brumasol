@@ -2,44 +2,39 @@ Raelar Brumasol
 Elfo de sangre pícaro
 Nivel: 1
 
-ATRIBUTOS (10p, 3máx)
-----------------------
-PVMax				24 (20 + 2Cons + 2Cuero)
-Fuerza				+1
-Agilidad			+3	
-Inteligencia			+1		
-Sabiduría				
-Constitución			+2			
-Ingenio				+1		
-Carisma				+2
+Puntos de vida máximos: 5 PV
 
-DEFENSIVOS (5p)
-----------------------
-Fortaleza: 			+2 (2Cons)	
-Pericia: 			+8 (2p +3Agi + 3Cuero)
-Res. Magica:			+4 (3p + 1Int)
+Estadísticas principales
+--------------------------------
+•    Fuerza
+•    Agilidad +2
+•    Inteligencia
+•    Sabiduría
+•    Constitución
+•    Ingenio
+•    Carisma +1
 
-COMBATE (5p, 3máx)
-----------------------
-Armadura: 			Cuero
-Doble empuñadura: 		+6 (3p + 3Agi)
-A distancia:			+5 (2p + 3Agi)
+Estadísticas defensivas
+---------------------------------
+•    Esquiva: +5 (** + 3 arm. cuero)
+•    Resistencia mágica: +1 (*)
 
-HABILIDADES (10p, 2máx)
-----------------------
-Engaño: 			+4 (2p + 2Car)
-Intimidación: 			+4 (2p + 2Car)
-Persuasión: 			+4 (2p + 2Car)
-Medicina:			
-Percepción:
-Perspicacia:
-Supervivencia:
-Mascotas:
-Historia: 			+1
-Naturaleza: 			+1
-Psicomancia: 			+1
-Magia: 				+1
-Juego de manos: 		+3 
-Sigilo: 			+5 (2p + 3Agi)
-Incapacitar:			+3 (2p + 1Int)
-Vigor:				+1
+Experiencia
+----------------
+Experiencia: 0/15
+
+Estadísticas de Combate
+-----------------------------------
+Dagas(arma en cada mano): +2 Agilidad
+
+Secundarias
+----------------
+Engaño: 2
+Persuasión: 2
+Juego de manos: 2
+Sigilo: 2
+Incapacitar: 2
+
+Estadísticas de Armadura
+------------------------------------
+•    Armadura de cuero
